@@ -1,0 +1,13 @@
+body {
+    background-color: #b0e0e6;
+}
+td {
+	border: 5px;
+	border-style: groove;
+	font-weight: lighter;
+	font-family: CentSchbkCyrill BT;
+	font-size: 21px;
+	text-shadow: 1px 1px 1px grey;
+	width: 110px;
+	height: 30px;
+}
